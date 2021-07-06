@@ -1,22 +1,29 @@
 # curso "Introducción a JavaScript" de la fundación itgrarte (julio 2021)
 
 Material del curso de javascript.
-Mentor: Miguel Barraza
-colaboradores: Gerardo Késsler y Patricia Mamani
-Inicia: 06/07/2021
+- Mentor: Miguel Barraza
+- colaboradores: Gerardo Késsler y Patricia Mamani
+- Inicia: 06/07/2021
+
 
 Objetivos:  El alumno aprenderá a utilizar y entender el uso de las variables, condicionales, bucles y funciones empleando ECMAScript. Se programará utilizando la versión estable de node.js
+
 Se requiere que el alumno conozca:
+
 * Manejo de Windows, crear carpetas, crear archivos, instalar programas.
 * Manejo de un procesador de texto: redactar, modificar un texto.
 * Manejo de internet: saber enviar un mail, adjuntar archivos, manejo de Google docs.
 * Si utiliza tecnología de asistencia utilizar y configurar su lector de pantalla o magnificador.
 
+
 Para aprobar el alumno tendrá que cumplir los siguientes criterios:
+
 * Poder razonar como aplicar un algoritmo para resolver un problema con ECMAScript.
 * Seguir buenas prácticas de división de código.
 
+
   Son clases teóricas prácticas. Se deberá cumplir con una asistencia del 80%. Se recomienda  dedicarle 10 horas semanales para resolver las prácticas.
+  
 Al finalizar el curso habrá un examen teórico multiple choice y un ejercicio práctico con tiempo que deberá compilar.
 Las clases se dictarán los días martes de 18 a 19:30 por meet.
 
@@ -81,5 +88,6 @@ próximamente
 ## enlaces útiles:
 
 próximamente
+
 
 Este trabajo está bajo una [Licencia internacional Creative Commons Reconocimiento-NoComercial-SinDerivados 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
