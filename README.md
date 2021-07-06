@@ -22,7 +22,8 @@ Para aprobar el alumno tendrá que cumplir los siguientes criterios:
 * Seguir buenas prácticas de división de código.
 
 
-  Son clases teóricas prácticas. Se deberá cumplir con una asistencia del 80%. Se recomienda  dedicarle 10 horas semanales para resolver las prácticas.
+
+    Son clases teóricas prácticas. Se deberá cumplir con una asistencia del 80%. Se recomienda  dedicarle 10 horas semanales para resolver las prácticas.
   
 Al finalizar el curso habrá un examen teórico multiple choice y un ejercicio práctico con tiempo que deberá compilar.
 Las clases se dictarán los días martes de 18 a 19:30 por meet.
