@@ -1,4 +1,4 @@
-# curso "Introducción a JavaScript" de la fundación itgrarte (julio 2021)
+#  Introducción a JavaScript,  fundación itgrarte
 
 Material del curso de javascript.
 - Mentor: Miguel Barraza
