@@ -71,6 +71,8 @@ día: 31/08/2021
 ## programas a utilizar:
 
 * [Node.js](https://nodejs.org/es/download/)
+* [node v13.14.0 para windows 7 64 bits](https://nodejs.org/download/release/v13.14.0/node-v13.14.0-x64.msi)
+* [node v13.14.0 para windows 7 32 bits](https://nodejs.org/download/release/v13.14.0/node-v13.14.0-x86.msi)
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 * [Complemento NVDA para Notepad++](https://nvda.es/2018/03/27/notepad/)
 * [Configurar Notepad++](configurar-npp.md)
