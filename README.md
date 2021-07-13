@@ -88,6 +88,10 @@ próximamente
 
 próximamente
 
+## Guía de ejercicios
+
+* [tp 1 - variables y condicionales](tp1.md)
+
 ## enlaces útiles:
 
 próximamente
