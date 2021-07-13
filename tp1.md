@@ -17,12 +17,13 @@ declarar 2 variables numéricas con los valores: 5 y 20 y mostrar cual es el res
 ## ejercicio 3:
 
 Quiero mostrar la tabla del 5... hacer un script que permita mostrar la tabla del 5 de la siguiente  forma:
-5 por 1 = 5
-5 por 2 = 10
-5 por 3 = 15
-5 por 4 = 20
-5 por 5 = 25
-... hasta el 10
+
+- 5 por 1 = 5
+- 5 por 2 = 10
+- 5 por 3 = 15
+- 5 por 4 = 20
+- 5 por 5 = 25
+- ... hasta el 10
 
 el script tiene que permitir cambiar el valor del 5, por el 7 y ahora tiene que mostrar la tabla del 7 con un solo cambio.
 
