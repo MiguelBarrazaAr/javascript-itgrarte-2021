@@ -37,14 +37,6 @@ Si tengo 23 dólares  quiero saber cuanto equivale eso en pesos. Tomando como re
 
 ## ejercicio 6:
 
-María quiere saber si le alcanza pararealizar una compra por internet, para ello quiere que hagamos un script js que le saque de su duda.
-tiene 900 pesos y quiere comprar un producto que vale 10 dólares. ¿le alcanza?
-
-en el script tendrá que verse reflejado las variables para poder modificar sus valores.
-y tendrá que tener un condicional que indique si con esos valores puede o no comprar el producto.
-
-## ejercicio 7:
-
 Declarar la variable 'decoracion' y guardar el valor: '*' y utilizarla para mostrar el siguiente mensaje:
 
 ** hola mundo **
