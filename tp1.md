@@ -1,6 +1,6 @@
 # trabajo práctico 1
 
-  Se deberá resolver los siguientes ejercicios y obtener por consola los resultados esperados para practicar variables y condicionales
+  Se deberá resolver los siguientes ejercicios y obtener por consola los resultados esperados para practicar variables.
   
 ## ejercicio 1:
 
