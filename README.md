@@ -91,6 +91,7 @@ próximamente
 ## Guía de ejercicios
 
 * [tp 1 - variables](tp1.md)
+* [tp 2 - condicionales](tp2.md)
 
 ## enlaces útiles:
 
