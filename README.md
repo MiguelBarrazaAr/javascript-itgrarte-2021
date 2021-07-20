@@ -82,7 +82,8 @@ día: 31/08/2021
 
 ## ejemplos
 
-* [código clase 1](codigos/clase1.zip)
+* [código clase 2 - variables](codigos/clase2.zip)
+* [código clase 3 - condicionales](codigos/clase3.zip)
 
 ## teoría:
 
