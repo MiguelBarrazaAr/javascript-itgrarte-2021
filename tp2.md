@@ -31,7 +31,7 @@ si la variable es 7 deberá decir: domingo
 
 ## ejercicio 5:
 
-declarar una variable que contenga un número del 1 al 7.
+declarar una variable que contenga un número del 1 al 12.
 luego deberá el programa decir  el mes   correspondiente al número que se indicó.
 
 ## ejercicio 6:
