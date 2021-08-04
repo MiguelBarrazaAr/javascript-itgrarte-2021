@@ -84,6 +84,8 @@ día: 31/08/2021
 
 * [código clase 2 - variables](codigos/clase2.zip)
 * [código clase 3 - condicionales](codigos/clase3.zip)
+* [tarea1](codigos/tarea1-tp2-ejercicio5.zip)
+* [código clase 4 - funciones](codigos/clase4.zip)
 
 ## teoría:
 
