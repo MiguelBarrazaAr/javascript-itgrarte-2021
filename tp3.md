@@ -70,6 +70,19 @@ function saludar(nombre) {
 saludar(nombre);
 ```
 fin del código.
+  
+  
+  
+  Los string tienen una propiedad llamada length que nos devuelve su número de caracteres, se usa de esta forma: cadena.length  
+por ejemplo:  
+  
+código:  
+```
+var cadena = "hola mundo";
+var cantidad = cadena.length;
+console.log("la cadena tiene una longitud de: "+cantidad);
+```
+fin del código.
 
 ## ejercicio 5:
 
