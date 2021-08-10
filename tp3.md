@@ -129,11 +129,11 @@ fin del código.
   var n1 = 10;
   var n2 = 3;
 ```
-function sumar(numero1, numero2) {
+function suma(numero1, numero2) {
     // completar.
 }
 
-function restar(numero1, numero2) {
+function resta(numero1, numero2) {
     // completar.
 }
 
