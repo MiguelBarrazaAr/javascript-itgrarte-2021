@@ -30,7 +30,8 @@ Las clases se dictarán los días martes de 18 a 19:30 por meet.
 
 ## Temario:
 
-1) Presentación:
+1) 
+Presentación:
 que es internet, ¿como funciona la web?.
 ¿Que es ECMAScript¿. Que es node.js, como se instala y cual son sus usos en la industria.
 día: 06/07/2021
@@ -86,6 +87,7 @@ día: 31/08/2021
 * [código clase 3 - condicionales](codigos/clase3.zip)
 * [tarea1](codigos/tarea1-tp2-ejercicio5.zip)
 * [código clase 4 - funciones](codigos/clase4.zip)
+* [código clase 5 - repaso if y funciones](codigos/clase5.zip)
 
 ## teoría:
 
@@ -96,6 +98,7 @@ próximamente
 * [tp 1 - variables](tp1.md)
 * [tp 2 - condicionales](tp2.md)
 * [tp 3 - funciones](tp3.md)
+* [tp 4 - funciones 2](tp4.md)
 
 ## enlaces útiles:
 

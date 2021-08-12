@@ -41,7 +41,7 @@ la multiplicación   de 5  y 10 es 50
 
 código:  
 ```
-function mutiplica(numero1, numero2) {
+function multiplica(numero1, numero2) {
     // completar.
 }
 
