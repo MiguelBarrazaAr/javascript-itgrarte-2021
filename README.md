@@ -88,6 +88,7 @@ día: 31/08/2021
 * [tarea1](codigos/tarea1-tp2-ejercicio5.zip)
 * [código clase 4 - funciones](codigos/clase4.zip)
 * [código clase 5 - repaso if y funciones](codigos/clase5.zip)
+* [código clase 6 - bucle for](codigos/clase6.zip)
 
 ## teoría:
 
