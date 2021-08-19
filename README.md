@@ -90,16 +90,13 @@ día: 31/08/2021
 * [código clase 5 - repaso if y funciones](codigos/clase5.zip)
 * [código clase 6 - bucle for](codigos/clase6.zip)
 
-## teoría:
-
-próximamente
-
 ## Guía de ejercicios
 
 * [tp 1 - variables](tp1.md)
 * [tp 2 - condicionales](tp2.md)
 * [tp 3 - funciones](tp3.md)
 * [tp 4 - funciones 2](tp4.md)
+* [tp 5 - array y for](tp5.md)
 
 ## enlaces útiles:
 
