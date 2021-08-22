@@ -42,12 +42,12 @@ fin del código.
 
 ## ejercicio 4:
 
-  Juan necesita ahora saber cuales son los gastos que hizo de mas de $1000. agarrar el código del ejercicio anterior y mostrar en pantalla los gastos que superen ese monto.
+  Juan necesita ahora saber cuales son los gastos que hizo de mas de $1000. agarrar el código del ejercicio anterior y mostrar en pantalla los gastos que superen ese monto.  
   
-  ## ejercicio 5:
-  
-  declarar una variable que contenga un número del 1 al 12.
-luego deberá el programa decir  el mes   correspondiente al número que se indicó. intentar esta vez hacerlo con un array.
+## ejercicio 5:
+
+  declarar una variable que contenga un número del 1 al 12.  
+luego deberá el programa decir  el mes   correspondiente al número que se indicó. intentar esta vez hacerlo con un array.  
 
 ## ejercicio 6:
 
