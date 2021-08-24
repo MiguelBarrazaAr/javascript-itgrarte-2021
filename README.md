@@ -89,6 +89,7 @@ día: 31/08/2021
 * [código clase 4 - funciones](codigos/clase4.zip)
 * [código clase 5 - repaso if y funciones](codigos/clase5.zip)
 * [código clase 6 - bucle for](codigos/clase6.zip)
+* [código clase 7 - todo](codigos/clase7.zip)
 
 ## Guía de ejercicios
 
@@ -100,7 +101,7 @@ día: 31/08/2021
 
 ## enlaces útiles:
 
-próximamente
+* [aprende a usar moment](https://www.oscarlijo.com/blog/aprende-a-usar-moment-js/)
 
 
 Este trabajo está bajo una [Licencia internacional Creative Commons Reconocimiento-NoComercial-SinDerivados 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
