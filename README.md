@@ -98,6 +98,7 @@ día: 31/08/2021
 * [tp 3 - funciones](tp3.md)
 * [tp 4 - funciones 2](tp4.md)
 * [tp 5 - array y for](tp5.md)
+* [Evaluación modelo](https://forms.gle/KP15FetgyyFpQycC9)
 
 ## enlaces útiles:
 
