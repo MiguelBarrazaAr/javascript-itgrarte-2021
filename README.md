@@ -104,5 +104,9 @@ día: 31/08/2021
 
 * [aprende a usar moment](https://www.oscarlijo.com/blog/aprende-a-usar-moment-js/)
 
+## examen:
+
+* [Examen teórico](https://docs.google.com/forms/d/e/1FAIpQLSdKnsrtUopS6vzbzip3ICGKv-gBh5y9DnW0Ks-HoABgfvIYsg/viewform)
+* [Entrega de código](http://tarea.miguelbarraza.com.ar/)
 
 Este trabajo está bajo una [Licencia internacional Creative Commons Reconocimiento-NoComercial-SinDerivados 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
